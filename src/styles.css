@@ -52,3 +52,10 @@ li.fisrt-letter {
   font-size: 15px;
   top: -30px;
 }
+.weather-temperature .active {
+color: rgb(33, 33, 33);
+cursor: default;
+}
+.weather-temperature .active:hover {
+text-decoration: none;
+}
