@@ -6,7 +6,6 @@ body {
 h1 {
   color: rgb(8, 8, 8);
   display: block;
-
   font-size: 25px;
   font-weight: 100;
   line-height: 29px;
@@ -30,12 +29,11 @@ li.fisrt-letter {
 .weather-app-wrapper {
   max-width: 600px;
   margin: 30px auto;
- 
 }
 .weather-app {
   padding: 20px;
-  border: 2px solid  #9bcf70ee;
-  border-radius: 5px;
+  border: 5px solid #9bcf70ee;
+  border-radius: 10px;
   background: #a1dd7091;
 }
 .overview {
@@ -62,4 +60,3 @@ li.fisrt-letter {
 .weather-temperature .active:hover {
   text-decoration: none;
 }
-
