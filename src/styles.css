@@ -1,6 +1,6 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background: #e8ecd6;
+  background: #d8ddc4;
 }
 
 h1 {
@@ -35,6 +35,7 @@ li.fisrt-letter {
   border: 5px solid #9bcf70ee;
   border-radius: 10px;
   background: #a1dd7091;
+  
 }
 .overview {
   margin-bottom: 20px;
